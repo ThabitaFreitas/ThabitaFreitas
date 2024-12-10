@@ -29,7 +29,7 @@
 ---
 
 ## 📫 How to Reach Me  
-📧 **Email:** [thabitadamascena@email.com](mailto:thabitadamascena@gmail.com)  
+📧 **Email:** [thabitadamascena@gmail.com](mailto:thabitadamascena@gmail.com)  
 🔗 **LinkedIn:** [ThabitaFreitas](https://linkedin.com/in/thabitadamascena)  
 🌐 **GitHub:** [ThabitaFreitas](https://github.com/ThabitaFreitas)
 
