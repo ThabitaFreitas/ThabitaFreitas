@@ -1,4 +1,5 @@
 # 💖 Hello, welcome to my GitHub profile!
+![Meu GIF](https://github.com/ThabitaFreitas/ThabitaFreitas/raw/main/imagens/gif.gif)
 
 ## About Me  
 🎓 **System Analysis and Development student** looking for opportunities to apply my knowledge and grow professionally in the tech field.  
