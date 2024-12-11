@@ -1,5 +1,5 @@
 # 💖 Hello, welcome to my GitHub profile!
-![Meu GIF](https://github.com/ThabitaFreitas/ThabitaFreitas/raw/main/imagens/gif.gif)
+![Meu GIF](https://private-user-images.githubusercontent.com/181907028/394924478-a5654eb5-a59f-4452-ba45-76414f02f1b2.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5NTM0MTUsIm5iZiI6MTczMzk1MzExNSwicGF0aCI6Ii8xODE5MDcwMjgvMzk0OTI0NDc4LWE1NjU0ZWI1LWE1OWYtNDQ1Mi1iYTQ1LTc2NDE0ZjAyZjFiMi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxMVQyMTM4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MGFmMDhmZWI4ZTgxMWM4ZWY0NDhmNWMxMWY2NmM0NjFiMTdkY2QyZTRiZTdiNTYxNmUzMzRkOTk3YmExNzA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dQYR1aBXOd8CvQWWArIlKZ18d0VrlkhKgThE9Qr5ilM) 
 
 ## About Me  
 🎓 **System Analysis and Development student** looking for opportunities to apply my knowledge and grow professionally in the tech field.  
