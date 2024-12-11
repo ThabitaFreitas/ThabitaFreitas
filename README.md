@@ -1,6 +1,4 @@
 # 💖 Hello, welcome to my GitHub profile!
-! [teclando] (https://cf.kizlarsoruyor.com/a170571/2a4067a0-0bd2-4127-a95c-00819a49d1ef.gif) 
-
 
 ## About Me  
 🎓 **System Analysis and Development student** looking for opportunities to apply my knowledge and grow professionally in the tech field.  
