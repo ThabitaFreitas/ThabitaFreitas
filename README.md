@@ -29,7 +29,9 @@
 ---
 
 ## 📫 How to Reach Me  
-🔗 **LinkedIn:** [Thabitadamascena](https://linkedin.com/in/thabitadamascena)  
+🔗 **LinkedIn:** [thabitadamascena](www.linkedin.com/in/
+thabita-damascena-243689205
+)  
 🌐 **GitHub:** [ThabitaFreitas](https://github.com/ThabitaFreitas)
 
 ---
