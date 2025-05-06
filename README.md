@@ -1,4 +1,5 @@
 #  Hello, welcome to my GitHub profile!
+#  Sou Estagiária em desenvolvimento web em constante aprendizado.
 
 ## 📚 Skills  
 
@@ -16,12 +17,7 @@
 
 ---
 
-## 📈 Goals  
-- Improve my skills in front-end and back-end development.  
-- Work in a team and collaborate on challenging projects.  
-- Continue learning new technologies and specialize in software development.
 
----
 
 ## 📫 How to Reach Me  
 🔗 **LinkedIn:** [thabitadamascena](https://www.linkedin.com/in/thabita-damascena-243689205/)
