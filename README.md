@@ -1,5 +1,5 @@
 #  Hello, welcome to my GitHub profile!
-#  Sou Estagiária em desenvolvimento web em constante aprendizado.
+** Estagiária de desenvolvimento web e estudante de Análise e desenvolvimento de sistemas.
 
 ## 📚 Skills  
 
