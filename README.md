@@ -25,4 +25,4 @@ Estagiária de desenvolvimento web e estudante de Análise e desenvolvimento de 
 
 ---
 
-"🎯 Technology is not just the future, it's the present, and I'm ready to be part of it!"
+🎯 Technology is not just the future, it's the present, and I'm ready to be part of it!
