@@ -1,5 +1,4 @@
 # Welcome to my GitHub profile!
-Estagiária de desenvolvimento web e estudante de Análise e Desenvolvimento de Sistemas.
 
 ## 📚 Skills  
 
